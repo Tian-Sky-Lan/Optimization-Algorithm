@@ -1,6 +1,6 @@
 # Optimization Algorithm
 
-This is the demo of 2 Optimization Algorithm from the course of Computing Intelligence
+This is the demo of 2 Optimization Algorithms from the course of Computing Intelligence
 
 Genetic Algorithm and Particle Swarm Optimization
 
