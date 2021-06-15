@@ -9,3 +9,4 @@ For these two .py file to run
 python3 GA.py
 python3 PSO.py
 
+The cpa.txt is the data that generates from an experiment in GA
