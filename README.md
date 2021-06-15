@@ -1,4 +1,8 @@
-# This is the demo of 2 Optimization Algorithm from the course of Computing Intelligence
+# Optimization Algorithm
+
+This is the demo of 2 Optimization Algorithm from the course of Computing Intelligence
+
+Genetic Algorithm and Particle Swarm Optimization
 
 For these two .py file to run
 
