@@ -4,7 +4,7 @@ This is the demo of 2 Optimization Algorithms from the course of Computing Intel
 
 Genetic Algorithm and Particle Swarm Optimization
 
-For these two .py file to run
+For these two .py files to run
 
 ```python
 python3 GA.py
